@@ -166,7 +166,7 @@ Slow Months   ❄️ → January   | February
 
 ```
 📦 Sales-Performance-Dashboard
- ┣ 📊 Salesstore_original_dataset.xlsx    → Raw Superstore data
+ ┣ 📊 Salesstore_dataset_original_sheet.csv    → Raw Superstore data
  ┣ 📋 salesrstore_cleaned_dataset.xlsx    → Cleaned & processed data
  ┣ 📄 salesstore_csv_file.csv             → CSV version of cleaned data
  ┣ 🗄️ salessstore_modeling.sql           → All SQL queries & analysis
